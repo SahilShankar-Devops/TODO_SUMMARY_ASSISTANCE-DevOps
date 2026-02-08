@@ -1,0 +1,9 @@
+com/todoapp/service/CohereService.class
+com/todoapp/config/WebConfig.class
+com/todoapp/entity/Todo.class
+com/todoapp/controller/TodoController.class
+com/todoapp/service/TodoService.class
+com/todoapp/dto/SummaryRequest.class
+com/todoapp/repository/TodoRepository.class
+com/todoapp/TodoSummaryAssistantApplication.class
+com/todoapp/service/SlackService.class

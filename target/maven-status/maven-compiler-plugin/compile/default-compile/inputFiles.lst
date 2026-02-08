@@ -1,0 +1,9 @@
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/TodoSummaryAssistantApplication.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/config/WebConfig.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/controller/TodoController.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/dto/SummaryRequest.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/entity/Todo.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/repository/TodoRepository.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/service/CohereService.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/service/SlackService.java
+/home/ec2-user/TodoSummaryAssistant/Backend/todo-summary-assistant/src/main/java/com/todoapp/service/TodoService.java
